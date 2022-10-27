@@ -1,6 +1,7 @@
 {
   "name": "05-portfolio-generator",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
 }
